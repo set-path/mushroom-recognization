@@ -1,0 +1,14 @@
+{
+    "Agaricus": 0,
+    "Amanita": 1,
+    "Boletus": 2,
+    "Cortinarius": 3,
+    "Entoloma": 4,
+    "Exidia": 5,
+    "Hygrocybe": 6,
+    "Inocybe": 7,
+    "Lactarius": 8,
+    "Pluteus": 9,
+    "Russula": 10,
+    "Suillus": 11
+}

@@ -1,0 +1,20 @@
+{
+    "Amanita": 0,
+    "Armillaria_mellea": 1,
+    "Boletus": 2,
+    "Cantharellus_cibarius": 3,
+    "Collybia": 4,
+    "Ganoderma": 5,
+    "Laccaria": 6,
+    "Lactarius": 7,
+    "Lentinus_edodes": 8,
+    "Morchella": 9,
+    "Ophiocordyceps_sinensis": 10,
+    "Pleurotus_citrinopileatus": 11,
+    "Ramaria": 12,
+    "Russula": 13,
+    "Saarcodon_imbricatum": 14,
+    "Thelephora_ganbajun": 15,
+    "Trichloma_matsutake": 16,
+    "Tuber": 17
+}

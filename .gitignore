@@ -1,0 +1,5 @@
+.DS_Store
+data/Mushrooms/*
+data/open_Mushrooms/*
+!digit_label.json
+!distance_label.json
